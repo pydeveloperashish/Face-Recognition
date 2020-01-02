@@ -1,6 +1,7 @@
 # Face-Recognition
 Just read How_to_Run.txt file. You will understand how to train and run the face recognition project.
 
+
 ____
 
 ## This is a step by step explanation of how train and run Face Recognizer.
@@ -37,3 +38,5 @@ Make sure it clicks atleast 300 images before you end the program. Do the requir
 12) Now open load_model_video.py to recognize face from a video or webcam. Do the required configurations.
 
 13) If you still face difficulty then either watch that video or message me in Instagram:- @py_developer.ashish
+
+
