@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import os
-
+https://imgur.com/a/qEwSdzN
 import faceRecognition as fr
 print (fr)
 
